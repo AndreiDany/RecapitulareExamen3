@@ -13,7 +13,7 @@ namespace RecapitulareExamen3
             this.Nume = Nume;
             this.Prenume = Prenume;
         }
-
+          
         public string Nume;
         public string Prenume;
         public string nume {
